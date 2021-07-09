@@ -1,0 +1,18 @@
+canvas
+{
+    background-image: url(https://turystyka.rp.pl/wp-content/uploads/2020/04/AR-200429078.jpg);
+    /*background-image: radial-gradient( rgba(255, 255, 255, 0.2),rgba(0,255,255,0.2) );*/
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#game
+{
+ text-decoration:aqua;
+ text-align: center;
+}
+
+#myCanvas
+{
+ background-position-x: center;
+}
